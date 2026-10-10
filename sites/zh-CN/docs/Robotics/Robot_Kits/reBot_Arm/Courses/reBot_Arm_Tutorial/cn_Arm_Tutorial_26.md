@@ -103,7 +103,7 @@ uv run ./example/sim/fk_sim.py
 对于正运动学fk_sim.py，是一条 **直通式正运动学链路**：关节角 → Pinocchio FK → 末端位姿 + MeshCat 渲染
 
 <div className="image-frame">
-  <img width={800} src="https://files.seeedstudio.com/wiki/robotics/projects/rebot_arm/tutorial_1/chapter-26cn/ch26-01cn.jpg" alt="" />
+  <img width={800} src="https://files.seeedstudio.com/wiki/robotics/projects/rebot_arm/tutorial_1cn/chapter-26cn/ch26-01cn.jpg" alt="" />
 </div>
 
 ## 逆运动学 meshCat 可视化 demo
@@ -135,7 +135,7 @@ uv run ./example/sim/ik_sim.py
 4. **输出结果** — 返回求解出的关节角（弧度）、是否收敛、最终误差，供后续控制使用
 
 <div className="image-frame">
-  <img width={800} src="https://files.seeedstudio.com/wiki/robotics/projects/rebot_arm/tutorial_1/chapter-26cn/ch26-02cn.jpg" alt="" />
+  <img width={800} src="https://files.seeedstudio.com/wiki/robotics/projects/rebot_arm/tutorial_1cn/chapter-26cn/ch26-02cn.jpg" alt="" />
 </div>
 
 ## 轨迹规划 meshCat 可视化 demo

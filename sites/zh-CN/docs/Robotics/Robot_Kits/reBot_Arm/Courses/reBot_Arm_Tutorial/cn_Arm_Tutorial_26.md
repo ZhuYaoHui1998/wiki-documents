@@ -84,9 +84,7 @@ uv sync
 </callout>
 
 ## 正运动学 meshCat 可视化 demo
-
-<figure view-type="Preview"><source name="sim_fk.mov" mime="video/quicktime" origin-height="1898.000000" origin-width="3104.000000" size="33289712" token="SZwsbaKDvoKMZgxkJdVcVHlznjf"/></figure>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVBwBnDO6X8?si=HSc4UqpDKHEg5Y43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```Plain Text
 uv run ./example/sim/fk_sim.py
 
@@ -107,9 +105,7 @@ uv run ./example/sim/fk_sim.py
 </div>
 
 ## 逆运动学 meshCat 可视化 demo
-
-<figure view-type="Preview"><source name="sim_ik.mov" mime="video/quicktime" origin-height="1858.000000" origin-width="3124.000000" size="66437934" token="Igh1bvfvvo5XgSxhegxcHDQUnLe"/></figure>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4B9ngX8e7x4?si=Ork_DT-A9zlxfEmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```Plain Text
 uv run ./example/sim/ik_sim.py
 
@@ -139,9 +135,7 @@ uv run ./example/sim/ik_sim.py
 </div>
 
 ## 轨迹规划 meshCat 可视化 demo
-
-<figure view-type="Preview"><source name="sim_traj.mov" mime="video/quicktime" origin-height="1858.000000" origin-width="3124.000000" size="68229995" token="UhEWbHYbzoCa6LxjtRMckQ4an8g"/></figure>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B5gz1Me78nQ?si=HDzRq-WhDX6N78V5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```Plain Text
 uv run python example/sim/traj_sim.py
 

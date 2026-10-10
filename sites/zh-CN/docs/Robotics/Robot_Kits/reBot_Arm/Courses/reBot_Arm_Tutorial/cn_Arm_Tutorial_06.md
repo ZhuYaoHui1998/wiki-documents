@@ -48,18 +48,48 @@ import 'katex/dist/katex.min.css';
 
 - reBotDM机械臂组装
 
+**reBot DM 机械臂组装**
+
+<div className="video-container">
+  <iframe src="https://www.youtube.com/embed/rfTQoFCfnMc" title="reBot DM 机械臂组装"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 - reBotRS机械臂组装
 
+**reBot RS 机械臂组装**
+
+<div className="video-container">
+  <iframe src="https://www.youtube.com/embed/Bv60NPO0TRo" title="reBot RS 机械臂组装"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 ## 电源组装
 
 - reBotDM电源组装
 
+**reBot DM 电源组装**
+
+<div className="video-container">
+  <iframe src="https://www.youtube.com/embed/DHFA2UfQzUo" title="reBot DM 电源组装"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 - reBotRS电源组装
 
+**reBot RS 电源组装**
+
+<div className="video-container">
+  <iframe src="https://www.youtube.com/embed/5GitUWT9gx0" title="reBot RS 电源组装"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 ## 机械臂接线
 
 - rebotDM机械臂接线
 
+**reBot DM 机械臂接线**
+
+<div className="video-container">
+  <iframe src="https://www.youtube.com/embed/vVxCOfu5ZCE" title="reBot DM 机械臂接线"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 1. 机械臂连接转接板
 
 <div className="image-frame">
@@ -99,6 +129,12 @@ import 'katex/dist/katex.min.css';
 
 - rebotRS机械臂接线
 
+**reBot RS 机械臂接线**
+
+<div className="video-container">
+  <iframe src="https://www.youtube.com/embed/llSa6qn3yrY" title="reBot RS 机械臂接线"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 1. 机械臂连接转接板
 
 <div className="image-frame">

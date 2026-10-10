@@ -48,8 +48,10 @@ import 'katex/dist/katex.min.css';
 
 - reBot DM
 
+<iframe width="600" height="400" src="https://www.youtube.com/embed/llSa6qn3yrY?si=D3ZUoBbih8_qtcFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - reBot RS 
 
+<iframe width="600" height="400" src="https://www.youtube.com/embed/llSa6qn3yrY?si=Ejc4Q97tFzURuh1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 如果你的系统还没有安装PCAN驱动，请看这里[reBot Arm B601-RS Quick Start | Seeed Studio Wiki](https://wiki.seeedstudio.com/rebot_b601_rs_getting_started/#software-setup-and-calibration-workflow)
 
 <div className="sensecraft-banner">
